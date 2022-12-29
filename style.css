@@ -128,9 +128,14 @@ h3 {
   width: 700px;
   margin: 10px;
   margin-left: 20px;
-  background-image: url("assets/Screenshot 222.png");
+  background-image: url("assets/worldwidenews.png");
   background-position: center;
   background-size: contain;
+  font-size: 35px;
+  color: white;
+  text-align: center;
+  padding: 300px 450px 0px 0px;
+
 }
 
 .info2 .image2 {
