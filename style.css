@@ -144,15 +144,21 @@ h3 {
   text-align: center;
   border-style: solid;
   border-width: 1px;
-  height: 200px;
+  height: 400px;
+  width: 700px;
   margin: 10px;
   margin-left: 20px;
-  background-image: url("assets/360_F_234497946_U5SC2sfy8DfqebsGAD16bkdE52n2g3n1.jpg");
+  background-image: url("assets/take-a-hike.png");
   font-size: 35px;
   color: white;
+  background-size: contain;
+  text-align: center;
+  background-position: center;
+  padding: 300px 450px 0px 0px;
+
 }
 
-.info2 .image3 {
+/* .info2 .image3 {
   flex: 1 0 0;
   padding: 0px;
   text-align: center;
@@ -163,7 +169,7 @@ h3 {
   background-image: url("assets/istockphoto-1224500457-170667a.jpg");
   font-size: 35px;
   color: white;
-}
+} */
 
 .info3 .image4 {
   flex: 1 0 0;
@@ -179,7 +185,7 @@ h3 {
   color: white;
 }
 
-.info3 .image5 {
+/* .info3 .image5 {
   flex: 1 0 0;
   padding: 0px;
   text-align: center;
@@ -190,7 +196,7 @@ h3 {
   background-image: url("assets/istockphoto-1224968439-170667a.jpg");
   font-size: 35px;
   color: white;
-}
+} */
 
 #Contact {
   display: flex;
