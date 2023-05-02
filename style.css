@@ -158,18 +158,22 @@ h3 {
 
 }
 
-/* .info2 .image3 {
+.info3 .image3 {
   flex: 1 0 0;
   padding: 0px;
   text-align: center;
   border-style: solid;
   border-width: 1px;
   height: 200px;
-  margin: 10px;
-  background-image: url("assets/istockphoto-1224500457-170667a.jpg");
+  margin: 5px;
+  background-image: url("assets/Screenshot 2023-05-01 234509.png");
   font-size: 35px;
-  color: white;
-} */
+  color: black;
+  background-size: contain;
+  text-align: center;
+  background-position: center;
+  padding: 300px 450px 0px 0px;
+}
 
 .info3 .image4 {
   flex: 1 0 0;
